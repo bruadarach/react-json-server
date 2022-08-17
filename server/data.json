@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": "b4d5035-e153-8602-0282-77fc0f7b5a47",
+      "name": "김영웅",
+      "address": "https://github.com/houndhollis"
+    },
+    {
+      "id": "18dec03-26-4081-ab75-b4afecedc48",
+      "name": "정환민",
+      "address": "https://github.com/JEONGHWANMIN"
+    },
+    {
+      "id": "7cbb3d6-2d1f-4b8a-eef4-7fce514253ad",
+      "name": "안수인",
+      "address": "https://github.com/SOOOIN"
+    },
+    {
+      "id": "d5350c2-d7d-a101-b67f-04e0f48b61e7",
+      "name": "이윤진",
+      "address": "https://github.com/sweesweett"
+    },
+    {
+      "id": "31dd280-e7cf-161b-1e43-3571a754fcd8",
+      "name": "최지혜",
+      "address": "https://github.com/ji-hyeee"
+    },
+    {
+      "id": "8f04af2-c820-0ae6-7130-1cadee8df47f",
+      "name": "류지창",
+      "address": "https://github.com/RyuJiChang"
+    },
+    {
+      "id": "cc7e28-5e22-282f-53eb-6e51b8b5b3a",
+      "name": "조민우",
+      "address": "https://github.com/homile"
+    },
+    {
+      "id": "c803dfe-24e6-d3e5-7bce-3a7d5c3fa8",
+      "name": "이준호",
+      "address": "https://github.com/junho01052"
+    },
+    {
+      "id": "07b5c2-2ab3-d405-fdd-a8872d1babd1",
+      "name": "강혜원",
+      "address": "https://github.com/kanghyew0n"
+    }
+  ]
+}
